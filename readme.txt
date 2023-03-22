@@ -2,7 +2,7 @@
 sudo yum install -y docker
 sudo yum install -y git
 sudo systemctl start docker
-git clone https://github.com/ShreyasK2411/Loan_Prediction.git
+git clone https://github.com/Vijaychaudhary1551/Loan_Prediction.git
 
 # copy the setup file to home directory
 # and run the script in sudo mode
