@@ -1,0 +1,21 @@
+✅ Overall Pipeline Flow
+
+S3 Data
+   ↓
+Preprocessing
+   ↓
+Feature Aggregation
+   ↓
+Join Labels
+   ↓
+Vector Assembly
+   ↓
+Random Forest
+   ↓
+Hyperparameter Tuning
+   ↓
+Model Training
+   ↓
+Evaluation
+   ↓
+Save Model
