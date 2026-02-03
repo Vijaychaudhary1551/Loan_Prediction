@@ -33,4 +33,4 @@ Demonstrated workflow from data ingestion to real-time prediction through a web 
 🎯 Project Impact
 
 This project showcases a complete machine learning lifecycle suitable for production readiness in financial applications, helping reduce manual workload and improve consistency in loan decisions
-<img width="598" height="1280" alt="image" src="https://github.com/user-attachments/assets/132b142b-7335-459c-b054-eddd02321c1b" />
+
