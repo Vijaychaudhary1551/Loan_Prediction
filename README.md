@@ -1,4 +1,4 @@
-#📌 Loan Prediction Project — Description
+# Loan Prediction Project — Description
 
 Loan Prediction is a machine learning-based solution designed to predict whether a loan application will be approved based on applicant financial and demographic features. The project integrates data preprocessing, model training, evaluation, and deployment, and demonstrates an end-to-end approach from raw data to a working prediction system.
 
@@ -33,3 +33,4 @@ Demonstrated workflow from data ingestion to real-time prediction through a web 
 🎯 Project Impact
 
 This project showcases a complete machine learning lifecycle suitable for production readiness in financial applications, helping reduce manual workload and improve consistency in loan decisions
+<img width="598" height="1280" alt="image" src="https://github.com/user-attachments/assets/132b142b-7335-459c-b054-eddd02321c1b" />
